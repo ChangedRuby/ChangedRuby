@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Image_top](/waves_top.svg)
 ![Description](/description.svg)
 
-<h2 align="center" style="text-decoration: none;">🌎 My Website: <a href="https://changedruby.github.io">ChangedRuby.github.io</a></h2>
-<h2 align="center">🎥 Youtube: <a href="https://changedruby.github.io">ChangedRuby.github.io</a></h2>
+<h3 align="center" style="text-decoration: none;">🌎 My Website: <a href="https://changedruby.github.io">ChangedRuby.github.io</a></h3>
+<h3 align="center">🎥 Youtube: <a href="https://changedruby.github.io">ChangedRuby.github.io</a></h3>
 
 ![Image_bottom](/waves_bottom.svg)
