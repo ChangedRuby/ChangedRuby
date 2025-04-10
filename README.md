@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![Image_top](/waves_top.svg)
 
-# 💬 My Website: [Portfolio](https://changedruby.github.io)
+### 💬 My Website: [changedruby.github.io](https://changedruby.github.io)
 
 ![Image_bottom](/waves_bottom.svg)
