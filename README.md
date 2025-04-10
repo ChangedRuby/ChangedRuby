@@ -1,6 +1,5 @@
-## Hello, I am Gustavo 👋
-
 <!--
+## Hello, I am Gustavo 👋
 **ChangedRuby/ChangedRuby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,6 +17,6 @@ Here are some ideas to get you started:
 ![Image_top](/waves_top.svg)
 ![Description](/description.svg)
 
-### 💬 My Website: [changedruby.github.io](https://changedruby.github.io)
+<h2 align="center">🌎 My Website: <a href="https://changedruby.github.io">ChangedRuby.github.io</a></h2>
 
 ![Image_bottom](/waves_bottom.svg)
