@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Imagem](/waves_bottom.svg)
+![Image_top](/waves_top.svg)
+![Image_bottom](/waves_top.svg)
