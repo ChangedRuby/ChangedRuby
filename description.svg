@@ -12,7 +12,7 @@
           justify-content: top;
           align-items: center;
           flex-direction: column;
-          font-family: 'Roboto', 'sans-serif';
+          font-family: 'Roboto', 'Arial', 'sans-serif';
         }
 
       @media (prefers-color-scheme: light){
