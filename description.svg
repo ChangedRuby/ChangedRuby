@@ -1,18 +1,31 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 100% 300" width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .container {
           display: flex;
           width: 100%;
-          height: 300px;
-          background-color: black;
-          color: white;
+          height: 500px;
+          background-color: none;
+          
+          color: black;
+          justify-content: top;
+          align-items: center;
+          flex-direction: column;
+          font-family: 'Roboto', 'sans-serif';
+        }
+
+        h2 {
+          width: 80%;
+          font-size: 25px;
+          font-family'Roboto', 'sans-serif';
+          text-align: center;
         }
       </style>
 
       <div class="container">
-        <h1>Hi there, my name is Nikola 👋</h1>
+        <h1>👋 Hello, my name is Gustavo</h1>
+        <h2>I study Computer Science, and I'm passionate about technology and programming.</h2>
       </div>
     </div>
   </foreignObject>
