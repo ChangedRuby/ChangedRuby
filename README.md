@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I am Gustavo 👋
 
 <!--
 **ChangedRuby/ChangedRuby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Image_top](/waves_top.svg)
-![Image_bottom](/waves_top.svg)
+![Image_bottom](/waves_bottom.svg)
