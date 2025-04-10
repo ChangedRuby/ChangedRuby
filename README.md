@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Image_top](/waves_top.svg)
+![Description](/description.svg)
 
 ### 💬 My Website: [changedruby.github.io](https://changedruby.github.io)
 
