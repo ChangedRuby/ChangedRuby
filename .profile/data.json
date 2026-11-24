@@ -1,7 +1,7 @@
 {
- "key": "d38fae2",
+ "key": "2db97eb9",
  "stars": 1,
- "contributions": 982,
+ "contributions": 986,
  "repos": 21,
  "followers": 11,
  "languages": [
@@ -121,7 +121,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 6,
     "day": 24,
     "today": true
    },
@@ -146,17 +146,8 @@
    "topics": []
   },
   {
-   "name": "Html-Calculator",
-   "url": "https://github.com/ChangedRuby/Html-Calculator",
-   "text": "A calculator made with Html, JS and CSS.",
-   "fork": false,
-   "stars": 0,
-   "language": "HTML",
-   "topics": []
-  },
-  {
-   "name": "Java_Minesweeper",
-   "url": "https://github.com/ChangedRuby/Java_Minesweeper",
+   "name": "Java-Minesweeper",
+   "url": "https://github.com/ChangedRuby/Java-Minesweeper",
    "text": "A Minesweeper clone made in java.",
    "fork": false,
    "stars": 1,
@@ -193,8 +184,8 @@
    "topics": []
   },
   {
-   "name": "Java_Minesweeper",
-   "url": "https://github.com/ChangedRuby/Java_Minesweeper",
+   "name": "Java-Minesweeper",
+   "url": "https://github.com/ChangedRuby/Java-Minesweeper",
    "text": "A Minesweeper clone made in java.",
    "fork": false,
    "stars": 1,
