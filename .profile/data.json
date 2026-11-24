@@ -1,0 +1,376 @@
+{
+ "key": "d38fae2",
+ "stars": 1,
+ "contributions": 982,
+ "repos": 21,
+ "followers": 11,
+ "languages": [
+  [
+   "Jupyter Notebook",
+   1440596
+  ],
+  [
+   "Kotlin",
+   305528
+  ],
+  [
+   "Java",
+   141712
+  ],
+  [
+   "Python",
+   60941
+  ],
+  [
+   "C++",
+   4368
+  ],
+  [
+   "HTML",
+   1814
+  ],
+  [
+   "CSS",
+   1021
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 1,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 12,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 10,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 11,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 24,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 3,
+  "longest": 8
+ },
+ "pins": [
+  {
+   "name": "UniGym",
+   "url": "https://github.com/ChangedRuby/UniGym",
+   "text": "UniGym mobile app",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Html-Calculator",
+   "url": "https://github.com/ChangedRuby/Html-Calculator",
+   "text": "A calculator made with Html, JS and CSS.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Java_Minesweeper",
+   "url": "https://github.com/ChangedRuby/Java_Minesweeper",
+   "text": "A Minesweeper clone made in java.",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "WebSocket-Controller",
+   "url": "https://github.com/ChangedRuby/WebSocket-Controller",
+   "text": "A custom controller made with ESP32 to integrate with a Godot game.",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "OOP-Exercises",
+   "url": "https://github.com/ChangedRuby/OOP-Exercises",
+   "text": "Some of the exercises I did to practice OOP concepts in uni.",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "WiseLabz",
+   "url": "https://github.com/ChangedRuby/WiseLabz",
+   "text": "",
+   "fork": true,
+   "stars": 1,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "Java_Minesweeper",
+   "url": "https://github.com/ChangedRuby/Java_Minesweeper",
+   "text": "A Minesweeper clone made in java.",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "midnight-cli",
+   "url": "https://github.com/ChangedRuby/midnight-cli",
+   "text": "The main control script for the Caelestia dotfiles",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "parallel-sorting-algorithms",
+   "url": "https://github.com/ChangedRuby/parallel-sorting-algorithms",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Artificial-Neural-Networks",
+   "url": "https://github.com/ChangedRuby/Artificial-Neural-Networks",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "midnight-shell",
+   "url": "https://github.com/ChangedRuby/midnight-shell",
+   "text": "Basically Caelestia+",
+   "fork": true,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "Bibata-Caelestia",
+   "url": "https://github.com/ChangedRuby/Bibata-Caelestia",
+   "text": "Open source, compact, and material designed cursor set.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "ML-Study",
+   "url": "https://github.com/ChangedRuby/ML-Study",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Waddle-Forever",
+   "url": "https://github.com/ChangedRuby/Waddle-Forever",
+   "text": "Singleplayer and playable digital archive version of Club Penguin",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "AV3Rommel",
+   "url": "https://github.com/ChangedRuby/AV3Rommel",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Jupyter Notebook",
+   "topics": []
+  },
+  {
+   "name": "Image-Model",
+   "url": "https://github.com/ChangedRuby/Image-Model",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Jupyter Notebook",
+   "topics": []
+  },
+  {
+   "name": "verboo-code",
+   "url": "https://github.com/ChangedRuby/verboo-code",
+   "text": "Verboo is a Fork of Openclaude and Is Open-source coding-agent CLI for Verboo Code",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "NoSignEdit",
+   "url": "https://github.com/ChangedRuby/NoSignEdit",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "code",
+   "url": "https://github.com/ChangedRuby/code",
+   "text": "The Modrinth monorepo containing all code which powers Modrinth!",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "teste-tecnico-Verbeux",
+   "url": "https://github.com/ChangedRuby/teste-tecnico-Verbeux",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "codeDomino",
+   "url": "https://github.com/ChangedRuby/codeDomino",
+   "text": "A tangible computer language based on LOGO implemented to run on robots commands assembled with physical pieces.",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "ChangedRuby",
+   "url": "https://github.com/ChangedRuby/ChangedRuby",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "UniGym",
+   "url": "https://github.com/ChangedRuby/UniGym",
+   "text": "UniGym mobile app",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "WebSocket-Controller",
+   "url": "https://github.com/ChangedRuby/WebSocket-Controller",
+   "text": "A custom controller made with ESP32 to integrate with a Godot game.",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "OOP-Exercises",
+   "url": "https://github.com/ChangedRuby/OOP-Exercises",
+   "text": "Some of the exercises I did to practice OOP concepts in uni.",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Html-Calculator",
+   "url": "https://github.com/ChangedRuby/Html-Calculator",
+   "text": "A calculator made with Html, JS and CSS.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  }
+ ]
+}

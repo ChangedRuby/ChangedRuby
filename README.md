@@ -6,9 +6,11 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/ChangedRuby/Java_Minesweeper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-java-minesweeper-dark.svg"><img src="assets/project-java-minesweeper-light.svg" width="49%" alt="Java_Minesweeper"></picture></a>&nbsp;<a href="https://github.com/ChangedRuby/parallel-sorting-algorithms"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-parallel-sorting-algorithms-dark.svg"><img src="assets/project-parallel-sorting-algorithms-light.svg" width="49%" alt="parallel-sorting-algorithms"></picture></a>
+<a href="https://github.com/ChangedRuby/UniGym"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-unigym-dark.svg"><img src="assets/project-unigym-light.svg" width="49%" alt="UniGym"></picture></a>&nbsp;<a href="https://github.com/ChangedRuby/Html-Calculator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-html-calculator-dark.svg"><img src="assets/project-html-calculator-light.svg" width="49%" alt="Html-Calculator"></picture></a>
 
-<a href="https://github.com/ChangedRuby/Artificial-Neural-Networks"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-artificial-neural-networks-dark.svg"><img src="assets/project-artificial-neural-networks-light.svg" width="49%" alt="Artificial-Neural-Networks"></picture></a>&nbsp;<a href="https://github.com/ChangedRuby/ML-Study"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ml-study-dark.svg"><img src="assets/project-ml-study-light.svg" width="49%" alt="ML-Study"></picture></a>
+<a href="https://github.com/ChangedRuby/Java_Minesweeper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-java-minesweeper-dark.svg"><img src="assets/project-java-minesweeper-light.svg" width="49%" alt="Java_Minesweeper"></picture></a>&nbsp;<a href="https://github.com/ChangedRuby/WebSocket-Controller"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-websocket-controller-dark.svg"><img src="assets/project-websocket-controller-light.svg" width="49%" alt="WebSocket-Controller"></picture></a>
+
+<a href="https://github.com/ChangedRuby/OOP-Exercises"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-oop-exercises-dark.svg"><img src="assets/project-oop-exercises-light.svg" width="49%" alt="OOP-Exercises"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
